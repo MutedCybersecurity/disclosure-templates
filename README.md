@@ -19,6 +19,8 @@ These Markdown templates help researchers and maintainers exchange the informati
 
 Read the [writing guide](docs/writing-guide.md) before filling out a template.
 
+**También en español:** [reporte inicial](templates/es/reporte-inicial.md) · [seguimiento](templates/es/seguimiento.md) · [revisión de corrección](templates/es/revision-correccion.md) · [lista de publicación](templates/es/lista-publicacion.md).
+
 ## Use responsibly
 
 1. Confirm that testing is authorized and limited to your own or approved environment.
